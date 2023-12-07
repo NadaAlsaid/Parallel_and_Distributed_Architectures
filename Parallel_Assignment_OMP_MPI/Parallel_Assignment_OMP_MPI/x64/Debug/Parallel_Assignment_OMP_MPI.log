@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Nada Said\source\repos\Parallel_Assignment_OMP_MPI\Parallel_Assignment_OMP_MPI\Source.cpp(20,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nada Said\source\repos\Parallel_Assignment_OMP_MPI\Parallel_Assignment_OMP_MPI\Source.cpp(53,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nada Said\source\repos\Parallel_Assignment_OMP_MPI\Parallel_Assignment_OMP_MPI\Source.cpp(29,6): warning C4101: 'nthr': unreferenced local variable
+  Parallel_Assignment_OMP_MPI.vcxproj -> C:\Users\Nada Said\source\repos\Parallel_Assignment_OMP_MPI\x64\Debug\Parallel_Assignment_OMP_MPI.exe

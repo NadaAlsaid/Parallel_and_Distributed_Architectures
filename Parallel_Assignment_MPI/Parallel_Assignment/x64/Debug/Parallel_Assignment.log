@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Parallel_Assignment.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+C:\Users\Nada Said\source\repos\assinment\Parallel_Assignment_MPI\Parallel_Assignment\Source.cpp(20,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nada Said\source\repos\assinment\Parallel_Assignment_MPI\Parallel_Assignment\Source.cpp(34,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Parallel_Assignment.vcxproj -> C:\Users\Nada Said\source\repos\assinment\Parallel_Assignment_MPI\x64\Debug\Parallel_Assignment_MPI.exe

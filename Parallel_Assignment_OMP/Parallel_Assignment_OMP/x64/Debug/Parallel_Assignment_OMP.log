@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Nada Said\source\repos\Parallel_Assignment_OMP\Parallel_Assignment_OMP\Source.cpp(18,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Nada Said\source\repos\Parallel_Assignment_OMP\Parallel_Assignment_OMP\Source.cpp(31,25): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Parallel_Assignment_OMP.vcxproj -> C:\Users\Nada Said\source\repos\Parallel_Assignment_OMP\x64\Debug\Parallel_Assignment_OMP.exe
